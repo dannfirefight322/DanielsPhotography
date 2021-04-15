@@ -1,0 +1,15 @@
+hr   {background-color: #F777777;
+      border-style:dotted none none;
+      border-color: #4267B3;
+      border-width:4px;
+      width:80%;}
+body {background-color: #777777;}
+a   {color: #555555;
+      font-style: italic;}
+h1   {color: #555555;
+      font-style: italic;}
+p    {color: #4267B3;
+      font-style: italic;}
+label {color: #555555;
+      font-style: italic;}
+img {border-radius: 5%;}
