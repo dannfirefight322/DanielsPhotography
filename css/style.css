@@ -6,7 +6,7 @@ hr   {background-color: #F777777;
 body {background-color: #777777;}
 a   {color: #555555;
       font-style: italic;}
-h1   {color: #555555;
+h1,h2   {color: #555555;
       font-style: italic;}
 p    {color: #4267B3;
       font-style: italic;}
