@@ -14,4 +14,13 @@ p    {color: #4267B3;
       font-style: italic;}
 label {color: #555555;
       font-style: italic;}
-img {border-radius: 5%;}
+.images {border-radius: 5%;
+transition:transform .2s;
+/*animation*/
+margin; 0 auto;
+}
+.images:hover{tranform:scale(2);
+padding: 10px;
+height: 400px;
+border-radius: 5%;
+}
