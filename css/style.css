@@ -21,7 +21,7 @@ margin; 0 auto;
 }
 .images:hover{tranform:scale(2);
 padding: 10px;
-height: 600px;
+height: 400px;
 border-radius: 5%;
 }
 img {border-radius: 5%;
