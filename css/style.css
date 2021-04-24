@@ -5,7 +5,8 @@ hr   {background-color: #F777777;
       width:80%;}
 body {background-color: #777777;}
 a   {color: #555555;
-      font-style: italic;}
+      font-style: italic;
+      text-decoration: none;}
 h1   {color: #555555;
       font-style: italic;}
 h2   {color: #555555;
