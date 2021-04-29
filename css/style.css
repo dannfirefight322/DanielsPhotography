@@ -24,6 +24,7 @@ margin; 0 auto;
 padding: 10px;
 height: 400px;
 border-radius: 5%;
+position: relative;
 }
 img {border-radius: 5%;
 }      
